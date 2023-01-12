@@ -1,3 +1,4 @@
 quantity = 10
 price = 5
-print(quantity*price)
+sale = 0.1
+print(quantity*price*sale)
